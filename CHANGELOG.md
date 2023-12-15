@@ -1,3 +1,10 @@
+# [1.1.0-dev.1](https://github.com/Aunali321/ReVancedExperiments/compare/v1.0.0...v1.1.0-dev.1) (2023-12-15)
+
+
+### Features
+
+* **youtube:** add `Hide subtitles toast` patch ([c737e2e](https://github.com/Aunali321/ReVancedExperiments/commit/c737e2e2c11377c86d47fa7deab2f27f850f2bd9))
+
 # 1.0.0 (2023-12-15)
 
 
