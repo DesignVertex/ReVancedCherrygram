@@ -5,7 +5,7 @@ plugins {
     `maven-publish`
 }
 
-group = "your.org"
+group = "li.auna"
 
 repositories {
     mavenCentral()
@@ -16,6 +16,7 @@ repositories {
 
 dependencies {
     implementation(libs.revanced.patcher)
+    implementation(libs.revanced.patches)
     implementation(libs.smali)
     // TODO: Required because build fails without it. Find a way to remove this dependency.
     implementation(libs.guava)
@@ -32,14 +33,14 @@ kotlin {
 
 tasks.withType(Jar::class) {
     manifest {
-        attributes["Name"] = "Your Patches"
-        attributes["Description"] = "Patches for ReVanced."
+        attributes["Name"] = "ReVanced Experiments"
+        attributes["Description"] = "Complementary Patches for ReVanced."
         attributes["Version"] = version
         attributes["Timestamp"] = System.currentTimeMillis().toString()
-        attributes["Source"] = "git@github.com:you/revanced-patches.git"
-        attributes["Author"] = "You"
-        attributes["Contact"] = "contact@your.homepage"
-        attributes["Origin"] = "https://your.homepage"
+        attributes["Source"] = "git@github.com:Aunali321/ReVancedExperiments.git"
+        attributes["Author"] = "Aunali321"
+        attributes["Contact"] = "cossale@revanced.app"
+        attributes["Origin"] = "https://auna.li"
         attributes["License"] = "GNU General Public License v3.0"
     }
 }
@@ -82,9 +83,9 @@ publishing {
             from(components["java"])
 
             pom {
-                name = "Your Patches"
-                description = "Patches for ReVanced."
-                url = "https://your.homepage"
+                name = "ReVanced Experiments"
+                description = "Complementary Patches for ReVanced."
+                url = "https://auna.li"
 
                 licenses {
                     license {
@@ -94,15 +95,15 @@ publishing {
                 }
                 developers {
                     developer {
-                        id = "Your ID"
-                        name = "Your Name"
-                        email = "contact@your.homepage"
+                        id = "Aunali321"
+                        name = "Aunali321"
+                        email = "hello@auna.li"
                     }
                 }
                 scm {
-                    connection = "scm:git:git://github.com/you/revanced-patches.git"
-                    developerConnection = "scm:git:git@github.com:you/revanced-patches.git"
-                    url = "https://github.com/you/revanced-patches"
+                    connection = "scm:git:git://github.com/Aunali321/ReVancedExperiments.git"
+                    developerConnection = "scm:git:git@github.com:Aunali321/ReVancedExperiments.git"
+                    url = "https://github.com/Aunali321/ReVancedExperiments"
                 }
             }
         }
