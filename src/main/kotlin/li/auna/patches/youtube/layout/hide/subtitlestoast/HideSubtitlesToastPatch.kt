@@ -27,7 +27,6 @@ import app.revanced.util.exception
             ]
         )
     ],
-    requiresIntegrations = true
 )
 object HideSubtitlesToastPatch : BytecodePatch(
     setOf(HideSubtitlesToastFingerprint, HideSubtitlesToastFingerprint2)
