@@ -1,3 +1,10 @@
+# [1.1.0-dev.2](https://github.com/Aunali321/ReVancedExperiments/compare/v1.1.0-dev.1...v1.1.0-dev.2) (2023-12-16)
+
+
+### Features
+
+* **youtube:** add `Large Play/Pause Button` patch ([2d7f868](https://github.com/Aunali321/ReVancedExperiments/commit/2d7f8681c03764a549ad5bbccfe3caa94f63e30b))
+
 # [1.1.0-dev.1](https://github.com/Aunali321/ReVancedExperiments/compare/v1.0.0...v1.1.0-dev.1) (2023-12-15)
 
 
