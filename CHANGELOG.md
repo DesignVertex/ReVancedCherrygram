@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/Aunali321/ReVancedExperiments/compare/v1.1.0...v1.2.0) (2024-03-28)
+
+
+### Features
+
+* **youtube:** Add support for newer versions ([58b433b](https://github.com/Aunali321/ReVancedExperiments/commit/58b433b3fd8e5ba027910407dfe575081d00e98f))
+
 # [1.1.0](https://github.com/Aunali321/ReVancedExperiments/compare/v1.0.0...v1.1.0) (2023-12-18)
 
 
