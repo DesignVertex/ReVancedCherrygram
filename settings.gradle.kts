@@ -1,6 +1,6 @@
 include("dummy")
 
-rootProject.name = "revanced-patches"
+rootProject.name = "revanced-experiments"
 
 buildCache {
     local {
