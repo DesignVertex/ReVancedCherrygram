@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/Aunali321/ReVancedExperiments/compare/v1.2.0...v1.3.0) (2024-04-22)
+
+
+### Features
+
+* **telegram:** add `HideSponsoredAds` and `HideTypingIndicator` patch ([5e818c2](https://github.com/Aunali321/ReVancedExperiments/commit/5e818c21c6a1db1a5336ea1bcd3242297e85c8c6))
+
 # [1.2.0](https://github.com/Aunali321/ReVancedExperiments/compare/v1.1.0...v1.2.0) (2024-03-28)
 
 
