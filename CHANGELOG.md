@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/Aunali321/ReVancedExperiments/compare/v1.3.0...v1.4.0) (2024-04-24)
+
+
+### Features
+
+* **spotify:** add `UnlockPremiumPatch` patch ([5798047](https://github.com/Aunali321/ReVancedExperiments/commit/57980475f0fc6f5d4fb4dd909dfefe2f4b50dc84))
+
 # [1.3.0](https://github.com/Aunali321/ReVancedExperiments/compare/v1.2.0...v1.3.0) (2024-04-22)
 
 
