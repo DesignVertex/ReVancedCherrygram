@@ -1,3 +1,10 @@
+# [1.6.0](https://github.com/Aunali321/ReVancedExperiments/compare/v1.5.0...v1.6.0) (2024-06-03)
+
+
+### Features
+
+* **spotify:** remove `Unlock Spotify Premium` patch for time being. will be added back in future. ([4b65358](https://github.com/Aunali321/ReVancedExperiments/commit/4b653586a3f0e5547f0c249194741ed720a70093))
+
 # [1.5.0](https://github.com/Aunali321/ReVancedExperiments/compare/v1.4.0...v1.5.0) (2024-06-03)
 
 
