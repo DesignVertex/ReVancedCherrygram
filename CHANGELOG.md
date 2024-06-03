@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/Aunali321/ReVancedExperiments/compare/v1.4.0...v1.5.0) (2024-06-03)
+
+
+### Features
+
+* **rabbit:** add `Bypass Verification` patch ([6fbcd9a](https://github.com/Aunali321/ReVancedExperiments/commit/6fbcd9a19d07b93c0c83ea5402a3203da0eeafe5))
+
 # [1.4.0](https://github.com/Aunali321/ReVancedExperiments/compare/v1.3.0...v1.4.0) (2024-04-24)
 
 
