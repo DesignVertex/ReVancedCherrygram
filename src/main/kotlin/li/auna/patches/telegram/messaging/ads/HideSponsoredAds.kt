@@ -13,6 +13,7 @@ import li.auna.patches.telegram.messaging.ads.fingerprints.HideSponsoredMessages
     description = "Hide sponsored ads in channels.",
     compatiblePackages = [
         CompatiblePackage("org.telegram.messenger"),
+		CompatiblePackage("org.telegram.messenger.web")
     ],
 )
 @Suppress("unused")

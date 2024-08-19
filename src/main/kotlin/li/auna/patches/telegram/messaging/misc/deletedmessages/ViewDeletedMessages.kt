@@ -14,6 +14,7 @@ import li.auna.patches.telegram.messaging.misc.deletedmessages.fingerprints.Mark
     description = "View deleted messages in chat.",
     compatiblePackages = [
         CompatiblePackage("org.telegram.messenger"),
+		CompatiblePackage("org.telegram.messenger.web")
     ],
 )
 @Suppress("unused")
