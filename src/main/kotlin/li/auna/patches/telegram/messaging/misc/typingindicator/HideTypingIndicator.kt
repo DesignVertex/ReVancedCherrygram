@@ -13,6 +13,7 @@ import li.auna.patches.telegram.messaging.misc.typingindicator.fingerprints.Need
     description = "Hide the typing indicator for outgoing messages.",
     compatiblePackages = [
         CompatiblePackage("org.telegram.messenger"),
+		CompatiblePackage("org.telegram.messenger.web")
     ],
 )
 @Suppress("unused")

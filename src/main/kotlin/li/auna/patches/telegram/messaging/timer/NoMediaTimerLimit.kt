@@ -11,6 +11,7 @@ import li.auna.patches.telegram.messaging.ads.fingerprints.HideSponsoredMessages
     description = "Remove the media timer limit.",
     compatiblePackages = [
         CompatiblePackage("org.telegram.messenger"),
+		CompatiblePackage("org.telegram.messenger.web")
     ],
 )
 @Suppress("unused")
